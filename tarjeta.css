@@ -14,4 +14,15 @@ section{
     width: 400px;
     height: 200px;
     border: blue solid;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
 }
