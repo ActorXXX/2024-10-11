@@ -17,3 +17,38 @@ ul{
     color: aquamarine;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+/* ejemplos */
+/* border -- color forma y espesor */
+div{
+    width: 150px;
+    height: 150px;
+    /*border:blue solid;*/
+}
+
+.box-uno{
+    width: 400px;
+    height: 200px;
+    border: solid orange 10px;
+    border-radius: 50%;
+}
+
+.box-dos{
+    background-color: red;
+    /*border: solid violet; */
+}
+
+.box-tres{
+    /*background: green;*/
+    background-image: url("https://www.liber.pe/img/logo.png");
+}
+
+h1{
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h6{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
